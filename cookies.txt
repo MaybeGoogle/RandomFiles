@@ -1,0 +1,19 @@
+# HTTP Cookie File downloaded with cookies.txt by Genuinous @genuinous
+# This file can be used by wget, curl, aria2c and other standard compliant tools.
+# Usage Examples:
+#   1) wget -x --load-cookies cookies.txt "https://www.youtube.com/?gl=FR&amp;hl=fr"
+#   2) curl --cookie cookies.txt "https://www.youtube.com/?gl=FR&amp;hl=fr"
+#   3) aria2c --load-cookies cookies.txt "https://www.youtube.com/?gl=FR&amp;hl=fr"
+#
+.youtube.com	TRUE	/	FALSE	1564532166	LOGIN_INFO	APUNbegwRgIhAIYplRRv2GM7v9X5hzMrl5TUoMnBQcFgRLehB8GPeo7lAiEAmktZuYME3FN0s89lYCsWnrxt8ZAB5jHuRyeiKYFfaPc:QUZKNV9BaG9McDczWWsxNjZOM1FkY1Mwd3hqdTFmbVFjdjd1YURjcE9hWnJFVEY3UmZSSWxXeEJvdnJyUlM1Z19vZmh2THBPUVoyVGk3UjJFVVJrcE1JekVEdE40TDFBZW5GNU9WT2RLQTZGUm16aUlScXFwOHRCWF9peDVoaVpCN1d4WXFNMTJ5cXg0OXpybGJlTkZEZWNqalhtUW5sR2VQOHJjdTZuWjBHY1Z6VjVRZ3JmZGdz
+.youtube.com	TRUE	/	FALSE	1525660763	PREF	f5=30030&amp;f1=50000000&amp;f6=1414&amp;al=fr+en+en-GB
+.youtube.com	TRUE	/	FALSE	1574202617	SID	bQW_jMXW-jf5Pq7nnTD0pyWpAN4--LXK6Dwx3Q7AmWTTagIDvTkx3jXCdxzOKjYRGNUQxQ.
+.youtube.com	TRUE	/	FALSE	1574202617	HSID	AzKjASUizRmHS-kGa
+.youtube.com	TRUE	/	TRUE	1574202617	SSID	ATlZ5IdKLWNKTCv6u
+.youtube.com	TRUE	/	FALSE	1574202617	APISID	GX78ev8f_riXzIQ-/AOrxkD5FlQ-3eM3dS
+.youtube.com	TRUE	/	TRUE	1574202617	SAPISID	UIgdyaxwCKRSspU0/ArKXkb9cJX_DhYcWF
+.youtube.com	TRUE	/	FALSE	2146723200	CONSENT	YES+FR.fr+V8
+.youtube.com	TRUE	/	FALSE	0	YSC	n8eN2f8R3wY
+.youtube.com	TRUE	/	FALSE	0	wide	1
+.youtube.com	TRUE	/	FALSE	1533534102	VISITOR_INFO1_LIVE	WpNbaWcgoOA
+.youtube.com	TRUE	/	FALSE	0	s_gl	17c2fb822cd735be73282b8047db0a59cwIAAABGUg==
